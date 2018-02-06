@@ -1,0 +1,4 @@
+admin
+P@ssw0rd
+root
+P@ssw0rd
